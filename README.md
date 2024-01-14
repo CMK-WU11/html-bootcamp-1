@@ -54,5 +54,8 @@ Du må gerne bruge lorem ipsum, og til billeder kan du for eksempel bruge https:
 
 Du skal ikke style dit dokument.
 
-### Aflevering
-Din aflevering foregår via GitHub. Du skal lave en pull-request fra dit eget repository til det repository, du har klonet fra.
+**Aflevering**
+
+Din aflevering foregår på GitHub, så dit sidste commit/push er din aflevering.
+
+Du skal aflevere i classroom-repositoriet.
